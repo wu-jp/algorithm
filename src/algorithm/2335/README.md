@@ -9,10 +9,6 @@ https://leetcode.cn/problems/minimum-amount-of-time-to-fill-cups/
 
 给你一个下标从 0 开始、长度为 3 的整数数组 amount ，其中 amount[0]、amount[1] 和 amount[2] 分别表示需要装满冷水、温水和热水的杯子数量。返回装满所有杯子所需的 最少 秒数。
 
-来源：力扣（LeetCode）
-链接：https://leetcode.cn/problems/minimum-amount-of-time-to-fill-cups
-著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
-
 
 ###### 示例一
 
